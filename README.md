@@ -1,59 +1,90 @@
-<h1 align="center">Hi 👋, I'm Carlos Eduardo Leguizamo Ramirez</h1>
-<h3 align="center">A passionate Full Stack Developer, I specialize in React, Vue, Laravel, Spring Boot, Django, and more!</h3>
+<h1 align="center">Hi 👋, I'm Carlos Eduardo Leguízamo Ramírez</h1>
+<h3 align="center">
+Full Stack Developer focused on building scalable, secure, and high-performance web applications using .NET, Next.js, React, Django, Laravel, and Microsoft Azure.
+</h3>
 
-- 🌱 I’m currently expanding my skills with **modern full-stack frameworks and technologies** to become a better developer.
+- 💼 Currently working as a **Junior Developer L1 at IndiGO Tech**, developing, maintaining, and stabilizing enterprise healthcare applications.
 
-- 💬 Ask me about **Full Stack development, backend technologies, frontend frameworks, and everything tech!**
+- 🚀 Experienced in **.NET, C#, ASP.NET, Next.js, React, Django REST Framework, Laravel, Java Spring Boot, SQL Server, PostgreSQL, and MySQL**.
+
+- ☁️ Working with **Microsoft Azure**, including App Service, Azure Functions, Blob Storage, Azure DevOps, and CI/CD pipelines.
+
+- 🌱 Passionate about **software architecture, cloud technologies, clean code, and continuous learning**.
+
+- 💬 Ask me about **.NET, C#, Next.js, React, Django, REST APIs, SQL Server, Azure, backend development, or full stack engineering.**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-    <a href="https://dev.to/tato-leguizamo" target="blank">
+    <a href="https://dev.to/tato-leguizamo" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tato-leguizamo" height="30" width="40" />
     </a>
-    <a href="https://linkedin.com/in/www.linkedin.com/in/carlos-leguizamo" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/carlos-leguizamo" height="30" width="40" />
+    <a href="https://www.linkedin.com/in/carlos-leguizamo/" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Carlos Leguizamo" height="30" width="40" />
     </a>
-    <a href="https://instagram.com/tato.carl" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tato.carl" height="30" width="40" />
+    <a href="https://instagram.com/tato.carl" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tato.carl" height="30" width="40" />
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages & Tools</h3>
+
 <p align="left">
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40" />
-    </a>
-    <a href="https://www.laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40" />
-    </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring boot" width="40" height="40" />
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
-    </a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-    </a>
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
+
+<a href="https://dotnet.microsoft.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://nextjs.org/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
+</a>
+
+<a href="https://react.dev/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://vuejs.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.djangoproject.com/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
+</a>
+
+<a href="https://laravel.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://spring.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.microsoft.com/sql-server" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://azure.microsoft.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://azure.microsoft.com/products/devops" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+</a>
+
 </p>
